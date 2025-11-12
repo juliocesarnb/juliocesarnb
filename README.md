@@ -53,4 +53,4 @@
 
 ### 🌐 Connect with me
 [![Linkedin](https://img.shields.io/badge/-Júlio%20Cesar%20Nunes%20Barbosa-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/j%C3%BAlio-cesar-cnb99/)](https://www.linkedin.com/in/j%C3%BAlio-cesar-cnb99/)
-[![GitHub](https://img.shields.io/github/followers/juliocesarnb?label=follow&style=soci)]() {coloque os que estão em aprendizado}
+[![GitHub](https://img.shields.io/github/followers/juliocesarnb?label=follow&style=soci)]() 
