@@ -41,7 +41,6 @@
 ---
 
 ### 🧩 Em aprendizado  
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
 ![Serverless](https://img.shields.io/badge/-Serverless-333333?style=flat&logo=serverless)
